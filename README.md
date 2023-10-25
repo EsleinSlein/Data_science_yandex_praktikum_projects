@@ -17,4 +17,4 @@
 | [Прогнозирование заказов такси](time_series) |Разработка системы предсказания объема заказа.| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *lightgbm* , *CatBoost*|Регрессия|
 | [Классификация комментариев](NLP) |Определение токсичности комментарии.| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *re* , *nltk*, *BERT*, *tf-idf*, *lightgbm*|Классификация|
 | [Обработка фотографий покупателя](CV_age) |Определение возраста по фотографии| *pandas*, *python*, *numpy*, *matplotlib*, *tensorflow.keras* |Компьютерное зрение|
-| [Прогноз температуры стали во время плавки](steel_temperature_predictions) |Прогноз температуры стали во время плавки для оптимизации расходов| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn* |Регрессия|
+| [Прогноз температуры стали во время плавки](steel_temperature_predictions) |Прогноз температуры стали во время плавки для оптимизации расходов| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *seaborn*, *CatBoost*|Регрессия|
