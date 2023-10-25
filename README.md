@@ -13,8 +13,8 @@
 | [Процесс очистки золота](gold_enrichment) |Спрогнозировать концентрацию золота после проведения процесса очистки золота| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn* |Регрессия|
 | [Шифратор для данных](encryptor) |Разработка модели анонимизации персональных данных| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn* |Регрессия|
 | [Построение модели определения стоимости автомобиля](cars_price_prediction) |Разработка системы рекомендации стоимости автомобиля на основе его описания| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *lightgbm* |Регрессия|
-| [SQL запросы](sql_requests) |Исследование базы данных| *SQL*|Запросы в базу данных|
-| [Прогнозирование заказов такси](time_series) |Разработка системы предсказания объема заказа.| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *lightgbm* , *CatBoost*|Регрессия|
-| [Классификация комментариев](NLP) |Определение токсичности комментарии.| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *re* , *nltk*, *BERT*, *tf-idf*, *lightgbm*|Классификация|
-| [Обработка фотографий покупателя](CV_age) |Определение возраста по фотографии| *pandas*, *python*, *numpy*, *matplotlib*, *tensorflow.keras* |Компьютерное зрение|
+| [SQL запросы](sql_requests) |Исследование базы данных | *SQL*|Запросы в базу данных|
+| [Прогнозирование заказов такси](time_series) |Разработка системы предсказания объема заказов такси.| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *lightgbm* , *CatBoost*|Регрессия|
+| [Классификация комментариев](NLP) |Определение токсичности комментариев в социальной сети.| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *re* , *nltk*, *BERT*, *tf-idf*, *lightgbm*|Классификация|
+| [Обработка фотографий покупателя](CV_age) |Определение возраста покупателей по фотографии| *pandas*, *python*, *numpy*, *matplotlib*, *tensorflow.keras* |Компьютерное зрение|
 | [Прогноз температуры стали во время плавки](steel_temperature_predictions) |Прогноз температуры стали во время плавки для оптимизации расходов| *pandas*, *python*, *numpy*, *matplotlib*, *sklearn*, *seaborn*, *CatBoost*|Регрессия|
