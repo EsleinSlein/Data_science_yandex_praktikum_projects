@@ -12,3 +12,4 @@
 
 ## Используемые библиотеки
 *pandas, python, numpy, matplotlib, tensorflow.keras*
+
